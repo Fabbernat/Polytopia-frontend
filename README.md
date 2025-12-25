@@ -1,4 +1,4 @@
-# This repo is my very primitive copy of the original game
+# This repo is my very primitive ASP.NET simulation of the main menu of the original game
 
 ## The Battle of Polytopia
 The Battle of Polytopia is a 4X turn-based strategy game developed and published by Midjiwan AB.
